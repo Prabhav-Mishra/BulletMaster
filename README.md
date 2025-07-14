@@ -10,8 +10,8 @@ BulletMaster is a fast-paced 2D shooter game developed in Java using object-orie
 
 - It includes smooth animations, responsive movement, and exciting shooting mechanics.
 
--Designed for fun and challenge, each level increases in difficulty as enemies become faster and more aggressive.
+- Designed for fun and challenge, each level increases in difficulty as enemies become faster and more aggressive.
 
--BulletMaster helps demonstrate OOP principles like classes, inheritance, and encapsulation in a real game project.
+- BulletMaster helps demonstrate OOP principles like classes, inheritance, and encapsulation in a real game project.
 
--Whether you're a casual player or a coding enthusiast, BulletMaster offers both entertainment and a look at how Java can be used to build fun, interactive games.
+* Whether you're a casual player or a coding enthusiast, BulletMaster offers both entertainment and a look at how Java can be used to build fun, interactive games.
